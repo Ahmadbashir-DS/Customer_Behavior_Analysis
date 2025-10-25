@@ -7,14 +7,14 @@
 ## 📘 Table of Contents
 - [Project Overview](#-project-overview)
 - [Dataset Summary](#-dataset-summary)
-- [Exploratory Data Analysis (Python)](#exploratory-data-analysis-python)
-- [SQL Business Analysis](#sql-business-analysis)
-- [Power BI Dashboard](#power-bi-dashboard)
-- [Business Recommendations](#business-recommendations)
-- [Tools & Technologies](#tools--technologies)
-- [Repository Structure](#repository-structure)
-- [Key Learnings](#key-learnings)
-- [Author](#author)
+- [Exploratory Data Analysis (Python)](#-exploratory-data-analysis-python)
+- [SQL Business Analysis](#-sql-business-analysis)
+- [Power BI Dashboard](#-power-bi-dashboard)
+- [Business Recommendations](#-business-recommendations)
+- [Tools & Technologies](#-tools--technologies)
+- [Repository Structure](#-repository-structure)
+- [Key Learnings](#-key-learnings)
+- [Author](#-author)
 
 ---
 
