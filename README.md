@@ -5,8 +5,8 @@
 ---
 
 ## 📘 Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset Summary](#dataset-summary)
+- [Project Overview](#-project-overview)
+- [Dataset Summary](#-dataset-summary)
 - [Exploratory Data Analysis (Python)](#exploratory-data-analysis-python)
 - [SQL Business Analysis](#sql-business-analysis)
 - [Power BI Dashboard](#power-bi-dashboard)
