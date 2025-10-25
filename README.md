@@ -12,7 +12,6 @@
 - [Power BI Dashboard](#-power-bi-dashboard)
 - [Business Recommendations](#-business-recommendations)
 - [Tools & Technologies](#-tools--technologies)
-- [Repository Structure](#-repository-structure)
 - [Key Learnings](#-key-learnings)
 - [Author](#-author)
 
@@ -86,18 +85,49 @@ Developed an **interactive Power BI dashboard** to visualize customer shopping i
 ### 📈 Key Visuals:
 - **Donut Charts:** Revenue by subscription type.  
 - **Bar Charts:** Top-selling products and categories.  
-- **Cards:** KPIs for Numbers of customer, Average purchase amount, and Average review rating.  
+- **Cards:** KPIs for Numbers of customers, Average purchase amount, and Average review rating.  
 - **Customer Segmentation:** New vs Returning vs Loyal customers.  
 - **Revenue Trends:** Breakdown by age group and shipping type.  
 
-## 👨‍💻 Author
+---
 
-**Ahmad Bashir**  
-📧 [ahmad.bashir7211@gmail.com](mailto:ahmad.bashir7211@gmail.com)  
-💼 [www.linkedin.com/in/ahmad-bashir-491b16372](https://www.linkedin.com/in/ahmad-bashir-491b16372)  
+## 💡 Business Recommendations
+
+Based on the insights generated, the following recommendations were proposed:
+
+- **Boost Subscriptions:** Offer exclusive benefits to increase subscriber base.  
+- **Loyalty Programs:** Reward repeat buyers to convert them into loyal customers.  
+- **Review Discount Policy:** Optimize discounts to balance revenue and profit margins.  
+- **Product Positioning:** Promote top-rated and high-demand products.  
+- **Targeted Marketing:** Focus campaigns on high-revenue age groups and express-shipping customers.  
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category | Tools Used |
+|-----------|-------------|
+| **Data Cleaning & EDA** | Python (`pandas`) |
+| **Database & Queries** | PostgreSQL, SQL |
+| **Visualization** | Power BI |
+| **Environment** | Jupyter Notebook, Power BI Desktop |
+
+
+---
+
+## 🧾 Key Learnings
+
+- Built an **end-to-end data analytics workflow** from Python → SQL → Power BI.  
+- Enhanced skills in **data cleaning, database querying, and dashboard design**.  
+- Learned to translate raw data into **actionable business insights**.  
+- Strengthened expertise in **data storytelling and BI reporting**.  
+
+---
+
 ## 👨‍💻 Author
 
 **Ahmad Bashir**  
 📧 [ahmad.bashir7211@gmail.com](mailto:ahmad.bashir7211@gmail.com)  
 💼 [www.linkedin.com/in/ahmad-bashir-491b16372](https://www.linkedin.com/in/ahmad-bashir-491b16372)  
 📊 *Data Analyst | BI Developer | Financial Analyst | Bookkeeper | Reporting & Business Intelligence Specialist | Skilled in Python, SQL, and Power BI*
+
